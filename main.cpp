@@ -43,7 +43,7 @@ int main() {
     //cout <<"yehj"<<endl;
     cout << circonscription.reqCirconscriptionFormate();
     cout << circonscription.nbreInscrits() << endl;
-    //cout<< "ie90e";
+    cout<< "ie90e";
     return 0;
 
 
