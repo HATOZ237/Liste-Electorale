@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Duroy/CLionProjects/untitled4/Adresse.cpp
+Adresse.h
+C:/Users/Duroy/CLionProjects/untitled4/Adresse.h
+ContratException.h
+C:/Users/Duroy/CLionProjects/untitled4/ContratException.h
+
+C:/Users/Duroy/CLionProjects/untitled4/Adresse.h
+string
+-
+ostream
+-
+
+C:/Users/Duroy/CLionProjects/untitled4/ContratException.h
+string
+-
+stdexcept
+-
+

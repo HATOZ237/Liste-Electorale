@@ -1,0 +1,2 @@
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe qc ..\..\src\libUntitled4.a  CMakeFiles/Untitled4.dir/Adresse.cpp.obj CMakeFiles/Untitled4.dir/Candidat.cpp.obj CMakeFiles/Untitled4.dir/Date.cpp.obj CMakeFiles/Untitled4.dir/Personne.cpp.obj CMakeFiles/Untitled4.dir/validationFormat.cpp.obj CMakeFiles/Untitled4.dir/ContratException.cpp.obj CMakeFiles/Untitled4.dir/Electeur.cpp.obj CMakeFiles/Untitled4.dir/Circonscription.cpp.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ranlib.exe ..\..\src\libUntitled4.a

@@ -1,0 +1,2 @@
+/usr/bin/ar.exe qc ../libUntitled4.a  CMakeFiles/Untitled4.dir/Adresse.cpp.o CMakeFiles/Untitled4.dir/Candidat.cpp.o CMakeFiles/Untitled4.dir/Date.cpp.o CMakeFiles/Untitled4.dir/Personne.cpp.o CMakeFiles/Untitled4.dir/validationFormat.cpp.o CMakeFiles/Untitled4.dir/ContratException.cpp.o CMakeFiles/Untitled4.dir/Electeur.cpp.o
+/usr/bin/ranlib.exe ../libUntitled4.a

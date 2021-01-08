@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug/CMakeFiles/Untitled4.dir

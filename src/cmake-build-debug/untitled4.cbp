@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="untitled4"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Untitled4">
+				<Option output="/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/libUntitled4.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 Untitled4"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Untitled4/fast">
+				<Option output="/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/libUntitled4.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 Untitled4/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/Adresse.cpp">
+			<Option target="Untitled4"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/Adresse.h">
+			<Option target="Untitled4"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/Candidat.cpp">
+			<Option target="Untitled4"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/Candidat.h">
+			<Option target="Untitled4"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/ContratException.cpp">
+			<Option target="Untitled4"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/ContratException.h">
+			<Option target="Untitled4"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/Date.cpp">
+			<Option target="Untitled4"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/Date.h">
+			<Option target="Untitled4"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/Electeur.cpp">
+			<Option target="Untitled4"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/Electeur.h">
+			<Option target="Untitled4"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/Personne.cpp">
+			<Option target="Untitled4"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/Personne.h">
+			<Option target="Untitled4"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/validationFormat.cpp">
+			<Option target="Untitled4"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/validationFormat.h">
+			<Option target="Untitled4"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Duroy/CLionProjects/untitled4/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

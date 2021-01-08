@@ -1,0 +1,2 @@
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe qc libuntitled4.a  CMakeFiles/untitled4.dir/library.cpp.obj CMakeFiles/untitled4.dir/Date.cpp.obj CMakeFiles/untitled4.dir/ContratException.cpp.obj CMakeFiles/untitled4.dir/validationFormat.cpp.obj CMakeFiles/untitled4.dir/Adresse.cpp.obj CMakeFiles/untitled4.dir/Personne.cpp.obj CMakeFiles/untitled4.dir/Candidat.cpp.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ranlib.exe libuntitled4.a

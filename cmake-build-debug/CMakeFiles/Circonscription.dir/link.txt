@@ -1,0 +1,2 @@
+/usr/bin/ar.exe qc ../libCirconscription.a  CMakeFiles/Circonscription.dir/Circonscription.cpp.o
+/usr/bin/ranlib.exe ../libCirconscription.a
